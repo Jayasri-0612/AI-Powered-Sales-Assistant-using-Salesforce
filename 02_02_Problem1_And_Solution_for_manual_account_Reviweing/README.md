@@ -11,3 +11,8 @@ To address this issue, an **AI-Powered Sales Assistant** was developed using Sal
 A chatbot interface is integrated into the Salesforce UI, allowing users to enter prompts like **“Show account summary”**. The system automatically analyzes CRM data and generates a **concise and meaningful summary** of the account.
 
 This reduces manual effort, saves time, and helps sales representatives make faster and more informed decisions.
+
+
+![Screenshot](../Screenshots/Screenshot%202026-04-27%20201303.png)
+
+![Screenshot](../Screenshots/image.png)

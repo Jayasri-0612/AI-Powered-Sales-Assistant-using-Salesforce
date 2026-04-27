@@ -1,0 +1,21 @@
+## 🔒 **Problem 2: Handling Sensitive and Restricted Data**
+
+In CRM systems, users may request access to **confidential or restricted information** such as financial details, internal records, or sensitive customer data.
+
+Without proper controls, this can lead to **data security risks**, **privacy violations**, and unauthorized access to critical business information.
+
+---
+
+## 💡 **Solution**
+
+To address this issue, **Security Guardrails** were implemented using Salesforce Agentforce.
+
+The AI assistant is designed to **identify sensitive or restricted requests** and respond with a **security warning message** instead of providing the data.
+
+---
+
+
+
+## 📸 **Screenshot**
+
+![Security Guardrails](../Screenshots/Screenshot%202026-04-27%20201303.png)
